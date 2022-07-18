@@ -1,0 +1,9 @@
+pandas
+requests
+glob2==0.7
+cleantext==1.1.4
+urllib3==1.25.11
+beautifulsoup4==4.8.0
+pdfminer.six
+flask
+texthero
